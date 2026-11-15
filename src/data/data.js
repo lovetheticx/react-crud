@@ -6,7 +6,7 @@ export const startingProducts = [
     category: "Phone",
     price: 799,
     image:
-      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1760708551271-05d0bc471590?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
   },
   {
     id: 2,
